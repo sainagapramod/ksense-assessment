@@ -36,5 +36,5 @@ This project implements the Ksense assessment:
 1. Install Node.js (v18+ recommended)
 2. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/ksense-assessment
+   git clone https://github.com/sainagapramod/ksense-assessment
    cd ksense-assessment

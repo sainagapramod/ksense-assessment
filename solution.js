@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 
-const API_KEY = ak_1161683bcb97c0efa04a376d1578c7a6b33745a4e754a6c1; // 
+const API_KEY = 'ak_1161683bcb97c0efa04a376d1578c7a6b33745a4e754a6c1'; // 
 const BASE_URL = 'https://assessment.ksenesetech.com/api/patients';
 const SUBMIT_URL = 'https://assessment.ksenesetech.com/api/submit-assessment';
 
